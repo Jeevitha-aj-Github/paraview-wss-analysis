@@ -11,8 +11,8 @@ The goal was to:
 ---
 
 ## Tools Used
-- ParaView — post-processing, gradient extraction, data export  
-- Excel — WSS computation and line-plot generation  
+- ParaView - post-processing, gradient extraction, data export  
+- Excel - WSS computation and line-plot generation  
 - OpenFOAM dataset (3D stenosed artery geometry)
 
 ---
